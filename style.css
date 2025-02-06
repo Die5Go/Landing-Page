@@ -138,3 +138,25 @@ a {
     text-align: center;
     padding-bottom: 128px
 }
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 128px 370px 78px;
+    background-color: #E5E7EB;
+}
+
+.testimonial {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.author {
+    font-size: 24px;
+    font-weight: 800;
+    align-self: flex-end;
+    padding: 8px 32px;
+}
